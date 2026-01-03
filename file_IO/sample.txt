@@ -1,0 +1,4 @@
+This is a demo file
+to store some words
+for the python activity
+that is to be solved by us!
