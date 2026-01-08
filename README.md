@@ -1,5 +1,3 @@
-# prime-batch-apna-college
-
 # 🚀 AI & ML Prime Batch – Learning Repository
 
 This repository documents my learning journey in **Shradha Khapra’s AI & ML Prime Batch**.  
