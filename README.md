@@ -19,7 +19,7 @@ It is designed as a **complete reference hub** containing **notes, PDFs, code im
 
 ## ✅ Current Progress
 
-- ✔️ **Pandas – Completed**
+- ✔️ **Matplotlib – Completed**
 - 🔄 Remaining topics will be added **step by step** as they are covered in the course
 
 ---
@@ -27,86 +27,92 @@ It is designed as a **complete reference hub** containing **notes, PDFs, code im
 ## 🧠 Curriculum Covered in This Repository
 
 ### 🐍 Python & Data (In Progress)
-- Python Programming Language  
-- Variables & Operators  
-- Conditional Statements & Loops  
-- Functions & Lambda Functions  
-- Lists, Tuples, Dictionaries & Sets  
-- File Handling & JSON  
-- Object-Oriented Programming (OOPs)  
-- Data Collection, Preprocessing & Visualization  
-- NumPy, **Pandas (Completed)**, Matplotlib, Seaborn  
+
+- Python Programming Language
+- Variables & Operators
+- Conditional Statements & Loops
+- Functions & Lambda Functions
+- Lists, Tuples, Dictionaries & Sets
+- File Handling & JSON
+- Object-Oriented Programming (OOPs)
+- Data Collection, Preprocessing & Visualization
+- NumPy, **Pandas (Completed)**, Matplotlib, Seaborn
 
 ---
 
 ### 📊 Machine Learning (Upcoming)
-- Mathematics for AI  
-- Statistics & Probability  
-- Supervised Learning (Classification & Regression)  
+
+- Mathematics for AI
+- Statistics & Probability
+- Supervised Learning (Classification & Regression)
 - Algorithms:
-  - Linear Regression  
-  - Naive Bayes  
-  - KNN  
-  - Decision Trees  
+  - Linear Regression
+  - Naive Bayes
+  - KNN
+  - Decision Trees
 - Unsupervised Learning:
-  - K-Means  
-  - PCA & Dimensionality Reduction  
-- Reinforcement Learning  
+  - K-Means
+  - PCA & Dimensionality Reduction
+- Reinforcement Learning
 - Model Evaluation:
-  - Precision, Recall, F1 Score  
-  - Bias–Variance Tradeoff  
-- Scikit-learn & Kaggle  
+  - Precision, Recall, F1 Score
+  - Bias–Variance Tradeoff
+- Scikit-learn & Kaggle
 
 ---
 
 ### 🧠 Deep Learning (Upcoming)
-- Neural Networks & Terminologies  
-- Forward & Backward Propagation  
-- Perceptron  
-- Feed Forward Neural Networks (FNN)  
-- Recurrent Neural Networks (RNN)  
-- LSTM – Need & Advantages  
-- Convolutional Neural Networks (CNN)  
-- Transformers  
-- TensorFlow  
-- PyTorch vs TensorFlow vs Keras  
+
+- Neural Networks & Terminologies
+- Forward & Backward Propagation
+- Perceptron
+- Feed Forward Neural Networks (FNN)
+- Recurrent Neural Networks (RNN)
+- LSTM – Need & Advantages
+- Convolutional Neural Networks (CNN)
+- Transformers
+- TensorFlow
+- PyTorch vs TensorFlow vs Keras
 
 ---
 
 ### 🤖 Generative AI & NLP (Upcoming)
-- NLP Fundamentals  
-- GenAI & Large Language Models (LLMs)  
-- GAN (Generative Adversarial Networks)  
-- RAG (Retrieval Augmented Generation)  
-- Agentic AI  
+
+- NLP Fundamentals
+- GenAI & Large Language Models (LLMs)
+- GAN (Generative Adversarial Networks)
+- RAG (Retrieval Augmented Generation)
+- Agentic AI
 - AI Tools:
-  - Cursor AI  
-  - GitHub Copilot  
-  - Claude  
-- Working with OpenAI APIs  
+  - Cursor AI
+  - GitHub Copilot
+  - Claude
+- Working with OpenAI APIs
 
 ---
 
 ### 🛠️ AI Engineering Stack (Upcoming)
-- Flask for AI Applications  
-- Frontend Fundamentals (HTML, CSS, JavaScript)  
-- SQL for Data Science  
-- Git & GitHub (Version Control)  
-- Docker  
-- Kubernetes  
+
+- Flask for AI Applications
+- Frontend Fundamentals (HTML, CSS, JavaScript)
+- SQL for Data Science
+- Git & GitHub (Version Control)
+- Docker
+- Kubernetes
 
 ---
 
 ### 📁 Projects (Upcoming)
-- Multiple Minor & Major Projects  
+
+- Multiple Minor & Major Projects
 - Industry-Grade Domain Projects:
-  - Finance  
-  - Recommendation Systems  
-  - Medical  
-  - E-Commerce  
-  - Media  
-- GenAI Assistant  
-- Sessions with AI Industry Professionals  
+  - Finance
+  - Recommendation Systems
+  - Medical
+  - E-Commerce
+  - Media
+- GenAI Assistant
+- Sessions with AI Industry Professionals
 
 ---
 
@@ -124,3 +130,4 @@ It is designed as a **complete reference hub** containing **notes, PDFs, code im
  ┣ 📁 PDFs
  ┣ 📁 CheatSheets
  ┗ 📁 Projects
+```
