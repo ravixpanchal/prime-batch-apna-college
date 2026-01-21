@@ -19,7 +19,7 @@ It is designed as a **complete reference hub** containing **notes, PDFs, code im
 
 ## ✅ Current Progress
 
-- ✔️ ** Ridge And Lasso Regression – Completed**
+- ✔️ **Ridge And Lasso Regression – Completed**
 - 🔄 Remaining topics will be added **step by step** as they are covered in the course
 
 ---
