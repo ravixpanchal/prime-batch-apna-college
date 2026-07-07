@@ -212,7 +212,7 @@ This repository documents my complete learning journey through **Shradha Khapra'
 git clone https://github.com/ravixpanchal/prime-batch-apna-college.git
 
 # Step 2: Move into the folder
-cd AI-ML-Prime-Batch
+cd prime-batch-apna-college
 
 # Step 3: Install required packages
 pip install -r requirements.txt
