@@ -209,7 +209,7 @@ This repository documents my complete learning journey through **Shradha Khapra'
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/ravixpanchal/AI-ML-Prime-Batch.git
+git clone https://github.com/ravixpanchal/prime-batch-apna-college.git
 
 # Step 2: Move into the folder
 cd AI-ML-Prime-Batch
